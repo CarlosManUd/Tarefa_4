@@ -4,7 +4,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author ivansteuerberg
+ * @author carli
  */
 public class Ventana extends javax.swing.JFrame {
 
